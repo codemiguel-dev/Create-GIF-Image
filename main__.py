@@ -1,7 +1,7 @@
 from PIL import Image
 
 # Lista de imágenes (asegúrate de que sean del mismo tamaño)
-imagenes = ["frame1.png", "frame2.png", "frame3.png"]
+imagenes = ["img/img-1.png", "img/img-2.png"]
 
 # Abrir las imágenes
 frames = [Image.open(imagen) for imagen in imagenes]
