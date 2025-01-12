@@ -52,6 +52,11 @@ imagenes = [
     "img/img-10.png",
     "img/img-10.png",
     "img/img-10.png",
+    "img/img-11.png",
+    "img/img-11.png",
+    "img/img-11.png",
+    "img/img-11.png",
+    "img/img-11.png",
 ]
 
 # Abrir las imágenes
