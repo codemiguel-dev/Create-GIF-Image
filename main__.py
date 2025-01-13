@@ -7,7 +7,6 @@ imagenes = [
     "img/img-3.png",
     "img/img-4.png",
     "img/img-5.png",
-    "img/img-6.png",
 ]
 
 # Abrir las imágenes
@@ -15,7 +14,7 @@ frames = [Image.open(imagen) for imagen in imagenes]
 
 # Crear el GIF
 frames[0].save(
-    "theme-delete-user-admin.gif",
+    "theme-excel-user-admin.gif",
     save_all=True,
     append_images=frames[1:],
     duration=2000,  # Duración de cada cuadro en milisegundos
