@@ -18,6 +18,6 @@ frames[0].save(
     "theme-delete-user-admin.gif",
     save_all=True,
     append_images=frames[1:],
-    duration=500,  # Duración de cada cuadro en milisegundos
+    duration=900,  # Duración de cada cuadro en milisegundos
     loop=0,  # Número de loops (0 significa infinito)
 )
